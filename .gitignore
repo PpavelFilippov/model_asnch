@@ -1,0 +1,7 @@
+\venv
+.idea/
+\output
+*.png
+*.pyc
+*.jpg
+*.pdf
